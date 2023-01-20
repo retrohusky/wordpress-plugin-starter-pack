@@ -1,0 +1,19 @@
+{
+  "name": "heintzel/plugin",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Heintzel\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "retrohusky",
+      "email": "marekheintzel0@gmail.com"
+    }
+  ],
+  "require": {
+    "squizlabs/php_codesniffer": "^3.7.1"
+  }
+}
